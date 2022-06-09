@@ -76,10 +76,6 @@ class PostDeleteView(LoginRequiredMixin,UserPassesTestMixin,DeleteView):
 			return True
 		return False
 
-# class CreateComment(CreateView):
-# 	model = Comment
-# 	template_name = 'create_comment.html'
-
 def about(request):
 	return render(request, 'blog/about.html', {'title': 'About'})
 
