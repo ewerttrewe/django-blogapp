@@ -18,7 +18,7 @@ You need to follow few steps below in order to use this app on your local machin
 5. cd back via `cd ..` and `pip install -r requirements.txt`<br>
 6. To start the server and be able to connect to certain endpoint type in `python manage.py runserver 8000`<br>
 7. Open web browser and try to connect to `http://localhost:8000`<br>
-8. Now you should be able to surf on the blog, try to create new user, log in and feel free to add post or check whatever you want beneth there is a short video showing the page for brief visualization.
+8. Now you should be able to surf on the blog, try to create new user, log in and feel free to add post or check whatever you want, beneth there is a short video showing the page for brief visualization.<br><br>
 
 
 
