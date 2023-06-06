@@ -1,3 +1,5 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/ewerttrewe/django-blogapp?style=plastic)
+
 # Django blog app
 This app is a simple blog where you can create, update, read and delete posts.
 
@@ -13,6 +15,9 @@ You need to follow few steps below in order to use this app on your local machin
   `.\Scripts\Activate.ps1`<br><br>
   &nbsp; **Linux/macOS Users:**<br>
   `source venv/bin/activate`<br><br>
+5. `pip install -r requirements.txt`<br>
+6. To start the server and be able to connect to certain endpoint type in `python manage.py runserver 8000`
+7. 
 
 
 
