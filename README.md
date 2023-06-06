@@ -20,7 +20,10 @@ You need to follow few steps below in order to use this app on your local machin
 7. Open web browser and try to connect to `http://localhost:8000`<br>
 8. Now you should be able to surf on the blog, try to create new user, log in and feel free to add post or check whatever you want, beneth there is a short video showing the page for brief visualization.<br><br>
 
-
+> **Disclaimer:** You can open a Python shell within the project's directory and run the following command to generate a new secret key and add it to `settings.py`, at the top level there is `SECRET_KEY=''` empty variable:<br>
+`python manage.py shell`<br>
+`from django.core.management.utils import get_random_secret_key`<br>
+`get_random_secret_key()`<br><br>
 
 
 
