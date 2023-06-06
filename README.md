@@ -1,4 +1,4 @@
-![GitHub last commit](https://img.shields.io/github/last-commit/ewerttrewe/django-blogapp?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/ewerttrewe/django-blogapp?style=plastic) ![Maintenance](https://img.shields.io/maintenance/no/2022)
 
 # Django blog app
 This app is a simple blog where you can create, update, read and delete posts.
