@@ -1,6 +1,29 @@
-# django-blog-app
-django blog 
+# Django blog app
+This app is a simple blog where you can create, update, read and delete posts.
+
+> **This simple django blog app is created only with vanilla django and it assumes that you have python >= 3.6 version installed on your machine**
+
+You need to follow few steps below in order to use this app on your local machine:<br><br>
+1. Clone the repository using `git clone https://github.com/ewerttrewe/django-blogapp.git` command.<br>
+2. Cd to the root directory of the project on your machine and fetch and merge all the latest changes using `git pull` command.<br>
+3. After that create virtual environment in your root directory via `python -m venv env` command.<br>
+4. Cd to previously created environment and activate environment:<br><br>
+  Actiavte virtual environment by typing in<br><br>
+  &nbsp; **Windows Users:**<br>
+  `.\Scripts\Activate.ps1`<br><br>
+  &nbsp; **Linux/macOS Users:**<br>
+  `source venv/bin/activate`<br><br>
+
+
+
+
+
+
+
+
+
+
+
 
 
 https://user-images.githubusercontent.com/93892998/209128750-14c1f304-133c-41b1-8a3e-24d23451f831.mp4
-
